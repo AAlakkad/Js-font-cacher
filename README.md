@@ -10,3 +10,4 @@ Small JS library for caching base64-encoded web fonts in localStorage.
 - [ ] Add tutorials
 - [ ] Refactor code
 - [ ] Add tests
+- [ ] Submit to Bower
